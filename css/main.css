@@ -98,8 +98,36 @@ textarea {
    ========================================================================== */
 
 
-
-
+.site_wrapper{
+    width: 85%;
+    margin: 0 auto;
+}
+.header_container{
+    position: relative;
+    min-height: 47px;
+    background-color: yellow;
+}
+.nav_button_group{
+    position: relative;
+    float: left;
+    margin-top: 7px;
+    z-index: 2;
+}
+.nav_title_branding{
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    left: 0;
+    margin-top: -14px;
+    margin-left: -25px;
+    text-align: center;
+}
+.nav_user_tools{
+    position: relative;
+    float: right;
+    margin-top: 7px;
+    margin-right: 25px;
+}
 
 
 
