@@ -180,6 +180,14 @@ textarea {
     float: left;
 }
 
+/* MAIN PAGE STYLES */
+.main {
+    margin: 0 auto;
+    width: 80%;
+    border-top: 1px solid #000000;
+    background-color: lavender;
+}
+
 
 
 
