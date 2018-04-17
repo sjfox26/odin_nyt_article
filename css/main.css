@@ -182,12 +182,32 @@ textarea {
     float: left;
 }
 
+/* AD STYLES */
+.ad {
+    min-height: 84px;
+    text-align: center;
+    margin-left: -30px;
+}
+
 /* MAIN PAGE STYLES */
 .main {
     margin: 30px auto 0;
-    width: 80%;
+    width: 70%;
     border-top: 1px solid #000000;
     background-color: lavender;
+}
+
+.headline {
+    margin-bottom: -12px;
+    font-style: italic;
+}
+
+.byline_date {
+    margin-left: 15px;
+}
+
+.byline_links {
+    float: right;
 }
 
 
