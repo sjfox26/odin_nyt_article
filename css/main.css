@@ -160,8 +160,16 @@ textarea {
     margin: 3px 0 5px;
     padding: 0 4px 0 3px;
     list-style-type: none;
+    border-left: 1px solid #e2e2e2;
+    border-right: 1px solid #e2e2e2;
 }
-
+.ribbon .collection-menu li img {
+    position: relative;
+    margin: 0 10px 0 0;
+    width: 65px;
+    height: 65px;
+    float: left;
+}
 
 
 
