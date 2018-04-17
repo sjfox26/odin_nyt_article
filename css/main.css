@@ -98,36 +98,70 @@ textarea {
    ========================================================================== */
 
 
-.site_wrapper{
+.site_wrapper {
     width: 85%;
     margin: 0 auto;
 }
-.header_container{
+
+/* HEADER STYLES */
+.header_container {
     position: relative;
     min-height: 47px;
     background-color: yellow;
 }
-.nav_button_group{
+.nav_button_group {
     position: relative;
     float: left;
     margin-top: 7px;
-    z-index: 2;
+    /*z-index: 2;*/
 }
-.nav_title_branding{
+.nav_title_branding {
     position: absolute;
     width: 100%;
-    z-index: 1;
+    /*z-index: 1;*/
     left: 0;
     margin-top: -14px;
     margin-left: -25px;
     text-align: center;
 }
-.nav_user_tools{
+.nav_user_tools {
     position: relative;
     float: right;
     margin-top: 7px;
     margin-right: 25px;
 }
+
+/*RIBBON STYLES */
+.ribbon {
+    position: relative;
+    height: 100px;
+    margin-bottom: -14px;
+    overflow: hidden;
+    z-index: 1000030;
+    border-top: 1px solid #ccc;
+}
+.ribbon .collection {
+    position: relative;
+    float: left;
+    height: 82px;
+    list-style-type: none;
+}
+.ribbon .collection-menu {
+    position: relative;
+    overflow: hidden;
+    height: 82px;
+    margin: 0;
+    padding: 0;
+}
+.ribbon .collection-menu li {
+    float: left;
+    width: 240px;
+    min-height: 75px;
+    margin: 3px 0 5px;
+    padding: 0 4px 0 3px;
+    list-style-type: none;
+}
+
 
 
 
