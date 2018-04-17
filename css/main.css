@@ -143,17 +143,19 @@ textarea {
 /*RIBBON STYLES */
 .ribbon {
     position: relative;
-    height: 100px;
+    height: 90px;
     margin-bottom: -14px;
     overflow: hidden;
     z-index: 1000030;
     border-top: 1px solid #ccc;
+    border-bottom: 1px solid #000000;
 }
 .ribbon .collection {
     position: relative;
     float: left;
     height: 82px;
     list-style-type: none;
+    margin-top: 10px;
 }
 .ribbon .collection-menu {
     position: relative;
@@ -182,7 +184,7 @@ textarea {
 
 /* MAIN PAGE STYLES */
 .main {
-    margin: 0 auto;
+    margin: 30px auto 0;
     width: 80%;
     border-top: 1px solid #000000;
     background-color: lavender;
