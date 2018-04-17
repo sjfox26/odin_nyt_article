@@ -112,8 +112,12 @@ textarea {
 .nav_button_group {
     position: relative;
     float: left;
-    margin-top: 7px;
+    margin-top: 10px;
+    text-transform: uppercase;
     /*z-index: 2;*/
+}
+.nav_button_group span {
+    margin-left: 19px;
 }
 .nav_title_branding {
     position: absolute;
@@ -127,8 +131,13 @@ textarea {
 .nav_user_tools {
     position: relative;
     float: right;
-    margin-top: 7px;
+    margin-top: 10px;
     margin-right: 25px;
+    text-transform: uppercase;
+}
+
+.nav_user_tools span {
+    margin-left: 6px;
 }
 
 /*RIBBON STYLES */
