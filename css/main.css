@@ -199,6 +199,8 @@ textarea {
     width: 70%;
     border-top: 1px solid #000000;
     background-color: lavender;
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
 }
 
 .story_header {
