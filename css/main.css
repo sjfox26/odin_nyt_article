@@ -295,6 +295,10 @@ textarea {
 }
 
 /*TELESCOPE PHOTO STYLES */
+.telescope_pic {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
 .telescope_caption {
     font-size: 0.95em;
 }
