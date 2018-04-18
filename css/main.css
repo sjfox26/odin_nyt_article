@@ -184,9 +184,13 @@ textarea {
 
 /* AD STYLES */
 .ad {
-    min-height: 84px;
+    min-height: 94px;
     text-align: center;
     margin-left: -30px;
+}
+
+.ad_space {
+    padding-top: 25px;
 }
 
 /* MAIN PAGE STYLES */
@@ -195,6 +199,10 @@ textarea {
     width: 70%;
     border-top: 1px solid #000000;
     background-color: lavender;
+}
+
+.story_header {
+    margin-top: -12px;
 }
 
 .headline {
@@ -210,10 +218,74 @@ textarea {
     float: right;
 }
 
+.image {
+    margin-bottom: 45px;
+}
 
+.caption {
+    max-width: 615px;
+    font-size: 0.975rem;
+}
 
+.story_body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
+.story_body_main_col {
+    width: 705px;
+    flex-grow: 0;
+    position: relative;
+}
 
+.story_text {
+    width: 570px;
+    margin-left: 75px;
+    font-size: 1.0625rem;
+    line-height: 1.625rem;
+}
+
+/*COMMENTS STYLE*/
+
+.right_col {
+    width: 35%;
+    float: right;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    background-color: aqua;
+}
+
+.comments_container {
+    height: auto;
+    justify-content: space-between;
+    display: flex;
+    flex-flow: column nowrap;
+    max-height: 900px;
+    margin-top: 65px;
+    margin-bottom: 45px;
+    font-size: 0.75rem;
+}
+.comments {
+    flex-shrink: 0;
+    width: 360px;
+    margin-bottom: 0;
+    font-size: 0.825rem;
+}
+
+.comments p {
+    margin-top: -12px;
+}
+
+/*INFLATION GRAPHIC STYLES */
+.inflation_container {
+    min-width: 720px;
+    font-size: 0.95rem;
+}
+.inflation_graphic {
+    width: 80%;
+}
 
 
 
