@@ -287,6 +287,10 @@ textarea {
     width: 80%;
 }
 
+/*EMBEDDED VIDEO STYLES */
+.video_caption {
+    font-size: 0.95em;
+}
 
 
 
