@@ -303,6 +303,25 @@ textarea {
     font-size: 0.95em;
 }
 
+/*STORY FOOTER-CITATION STYLES*/
+.story_footer:before {
+    width: 60px;
+    content: '';
+    display: inline-block;
+    height: 1px;
+    margin: 0 0 13px 0;
+    background-color: #000;
+}
+.story_footer {
+    position: relative;
+    margin-top: 24px;
+    clear: both;
+    width: 570px;
+    margin-left: 75px;
+}
+.story_print_citation {
+    font-size: 0.6875rem;
+}
 
 
 
