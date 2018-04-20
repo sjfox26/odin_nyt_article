@@ -404,8 +404,37 @@ textarea {
     margin: 1%;
 }
 
-
-
+/* SITE INDEX STYLES */
+.site_index {
+    width: 63%;
+    margin: 50px auto 0;
+    border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+    background-color: aquamarine;
+    border-top: 2px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e2;
+}
+.index_header {
+    margin-top: -12px;
+    font-size: 0.9rem;
+}
+.index_header p {
+    margin-top: 8px;
+}
+.column {
+    width: 165px;
+    float: left;
+}
+.column ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.six_split_layout {
+    display: flex;
+}
+.test_div {
+    background-color: blueviolet;
+}
 
 
 
