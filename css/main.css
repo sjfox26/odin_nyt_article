@@ -428,11 +428,32 @@ textarea {
 .column ul {
     list-style-type: none;
     padding-left: 0;
+    line-height: 1.6;
 }
 .six_split_layout {
     display: flex;
 }
-
+.column.last_column {
+    margin-left: 46px;
+    border-left: 1px solid #e2e2e2;
+    padding-left: 18px;
+}
+.index_subscribe {
+    font-weight: bold;
+}
+.secondary_menu {
+    font-size: 0.85em;
+    margin-top: -6px;
+}
+.third_menu {
+    border-top: 1px solid #e2e2e2;
+    font-size: 0.85em;
+    padding-top: 10px;
+}
+.column li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
 
 
 
