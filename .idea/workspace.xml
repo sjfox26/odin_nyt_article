@@ -15,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="189" column="34" lean-forward="true" selection-start-line="189" selection-start-column="34" selection-end-line="189" selection-end-column="34" />
+            <state relative-caret-position="325">
+              <caret line="224" column="70" lean-forward="true" selection-start-line="224" selection-start-column="70" selection-end-line="224" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="312" column="27" lean-forward="true" selection-start-line="312" selection-start-column="27" selection-end-line="312" selection-end-column="27" />
+            <state relative-caret-position="514">
+              <caret line="386" column="26" lean-forward="false" selection-start-line="386" selection-start-column="26" selection-end-line="386" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -43,8 +43,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -133,12 +133,12 @@
       <updated>1523388256800</updated>
       <workItem from="1523388258074" duration="1352000" />
       <workItem from="1523480254380" duration="27000" />
-      <workItem from="1523974310083" duration="22375000" />
+      <workItem from="1523974310083" duration="26594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23754000" />
+    <option name="totallyTimeSpent" value="27973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -187,18 +187,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="189" column="34" lean-forward="true" selection-start-line="189" selection-start-column="34" selection-end-line="189" selection-end-column="34" />
+        <state relative-caret-position="514">
+          <caret line="386" column="26" lean-forward="false" selection-start-line="386" selection-start-column="26" selection-end-line="386" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="312" column="27" lean-forward="true" selection-start-line="312" selection-start-column="27" selection-end-line="312" selection-end-column="27" />
+        <state relative-caret-position="325">
+          <caret line="224" column="70" lean-forward="true" selection-start-line="224" selection-start-column="70" selection-end-line="224" selection-end-column="70" />
           <folding />
         </state>
       </provider>

@@ -323,6 +323,76 @@ textarea {
     font-size: 0.6875rem;
 }
 
+/* TRENDING STYLES */
+.trending {
+    width: 360px;
+    display: block;
+    float: right;
+    clear: right;
+    margin: 0 0 45px 30px;
+    border-top: 1px solid #ccc;
+    padding: 10px;
+    background-color: #b3d4fc;
+    font-size: 0.875rem;
+}
+
+.trending footer {
+    border-top: 1px solid #f3f3f3;
+    padding-top: 7px;
+    font-size: 0.6875rem;
+}
+
+/* WHAT'S NEXT SECTION STYLES */
+.next {
+    width: 705px;
+    background-color: lightcoral;
+}
+.related {
+    border-top: 1px solid #ccc;
+    padding-top: 7px;
+    margin: 0 0 35px auto;
+    padding: 0;
+}
+.related header{
+    padding: 9px 0 13px 0;
+    display: flex;
+}
+.related_heading {
+    float: left;
+    font-size: 0.95em;
+}
+.recommended header{
+    padding: 9px 0 13px 0;
+    display: flex;
+}
+.recommended_heading {
+    float: left;
+    font-size: 0.95em;
+}
+.space_cosmos_stories {
+    list-style-type: none;
+}
+.user_action {
+    display: block;
+    margin-left: auto;
+    float: right;
+    font-size: 0.85em;
+}
+.related_story {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+}
+.recommended_stories {
+    list-style-type: none;
+}
+.recommended_story {
+    display: inline-block;
+    width: 30%;
+    margin: 1%;
+}
+
+
 
 
 
