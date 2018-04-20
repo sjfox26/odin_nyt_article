@@ -348,10 +348,11 @@ textarea {
     background-color: lightcoral;
 }
 .related {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #000;
     padding-top: 7px;
-    margin: 0 0 35px auto;
+    /*margin: 0 0 35px 0;*/
     padding: 0;
+    margin-bottom: 0;
 }
 .related header{
     padding: 9px 0 13px 0;
@@ -360,6 +361,13 @@ textarea {
 .related_heading {
     float: left;
     font-size: 0.95em;
+}
+.recommended {
+    border-top: 1px solid #000;
+    padding-top: 7px;
+    /*margin: 0 0 35px 0;*/
+    padding: 0;
+    margin-bottom: 0;
 }
 .recommended header{
     padding: 9px 0 13px 0;
@@ -379,8 +387,10 @@ textarea {
     display: flex;
     flex-flow: row wrap;
     list-style-type: none;
+    margin-bottom: 0;
 }
 .related_story {
+    height: 210px;
     width: 30%;
     margin: 1%;
 }
@@ -389,6 +399,7 @@ textarea {
 }
 .recommended_story {
     display: inline-block;
+    height: 210px;
     width: 30%;
     margin: 1%;
 }
