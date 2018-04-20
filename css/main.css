@@ -101,6 +101,8 @@ textarea {
 .site_wrapper {
     width: 85%;
     margin: 0 auto;
+    border-left: 1px solid #e2e2e2;
+    border-right: 1px solid #e2e2e2;
 }
 
 /* HEADER STYLES */
