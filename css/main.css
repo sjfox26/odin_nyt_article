@@ -369,17 +369,18 @@ textarea {
     float: left;
     font-size: 0.95em;
 }
-.space_cosmos_stories {
-    list-style-type: none;
-}
 .user_action {
     display: block;
     margin-left: auto;
     float: right;
     font-size: 0.85em;
 }
+.space_cosmos_stories {
+    display: flex;
+    flex-flow: row wrap;
+    list-style-type: none;
+}
 .related_story {
-    display: inline-block;
     width: 30%;
     margin: 1%;
 }
