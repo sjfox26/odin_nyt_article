@@ -457,6 +457,41 @@ textarea {
     cursor: pointer;
 }
 
+/*FOOTER STYLES */
+.page_footer {
+    width: 63%;
+    margin: 0 auto;
+    border-top: 1px solid #e2e2e2;
+}
+.page_footer nav {
+    float: left;
+    padding-left: 0;
+}
+.page_footer ul {
+    list-style-type: none;
+}
+.page_footer ul li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.page_footer ul li {
+    display: inline-block;
+    font-size: .81rem;
+    padding-left: 4px;
+}
+.footer_left {
+    float: left;
+    margin-left: -45px;
+}
+.footer_right {
+    float: right;
+    margin-left: -3px;
+}
+.with_border {
+    border-left: 1px solid #e2e2e2;
+}
+
+
 
 
 /* ==========================================================================
